@@ -1,0 +1,2 @@
+language = "go"
+run = "go run ./bin/server/main.go --mode prod --prot 5230"
