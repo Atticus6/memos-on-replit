@@ -1,13 +1,26 @@
-<!-- THIS FILE IS A PLACEHOLDER AND SHOULD NOT BE CHANGED -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/logo.png" type="image/*" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f4f4f5" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#27272a" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="manifest" href="/manifest.json" />
     <title>Memos</title>
+    <script type="module" crossorigin src="/assets/index-d4ed2424.js"></script>
+    <link rel="stylesheet" href="/assets/index-3467deb9.css">
   </head>
   <body>
-    <p>No frontend embeded.</p>
+    <div id="root"></div>
+    
+    <script>
+      var global = global || window;
+      window.addEventListener("load", () => {
+        if ("serviceWorker" in navigator) {
+          navigator.serviceWorker.register("/sw.js");
+        }
+      });
+    </script>
   </body>
 </html>
