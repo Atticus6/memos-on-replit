@@ -15,7 +15,7 @@
   Discuss in <a href="https://t.me/+z76QXxWq23U3NTU9">Telegram</a> 🏂
 </div>
 
-<img src="https://img.iweec.cn/img/image-20230205013610451.png" alt="" style="zoom:50%;border-radius:15px" />
+<div><img src="https://img.iweec.cn/img/image-20230205013610451.png" alt="" style="zoom:50%;border-radius:13px" /><div>
 
 ## 部署
 
@@ -26,7 +26,7 @@
 
 > 语言必须为Go
 
-<img src="https://img.iweec.cn/img/image-20230205004821133.png" alt="image-20230205004821133" style="zoom:50%;border-radius:15px" />
+<div><img src="https://img.iweec.cn/img/image-20230205004821133.png" alt="image-20230205004821133" style="zoom:50%;border-radius:13px" /></div>
 
 未完待续。。
 
@@ -45,3 +45,4 @@
 ---
 
 > [@博客](https://www.iweec.cn/) · [@GitHub](https://github.com/Atticus6) · [@Telegram群](https://t.me/+z76QXxWq23U3NTU9) 
+
