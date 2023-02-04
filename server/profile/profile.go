@@ -57,7 +57,8 @@ func GetProfile() (*Profile, error) {
 	}
 
 	if profile.Mode == "prod" && profile.Data == "" {
-		profile.Data = "./home"
+		profile.Data = "/home/runner/memos-on-replit/home"
+		// profile.Data = "./"
 	}
 
 	dataDir, err := checkDSN(profile.Data)
