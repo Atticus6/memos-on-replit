@@ -11,11 +11,13 @@
   </a>
 </div>
   <p align="center">
-  <a href="https://memos-on-replit.atticuswang1.repl.co">Live Demo</a> •
+  <a href="https://me.iweec.cn">Live Demo</a> •
   Discuss in <a href="https://t.me/+z76QXxWq23U3NTU9">Telegram</a> 🏂
 </div>
 
-<div><img src="https://img.iweec.cn/img/image-20230205013610451.png" alt="" style="zoom:50%;border-radius:13px" /><div>
+
+<div><img src="https://img.iweec.cn/img/image-20230205013610451.png" alt="" style="zoom:50%;border-radius:15px" /><div>
+
 
 ## 部署
 
@@ -26,9 +28,9 @@
 
 > 语言必须为Go
 
-<div><img src="https://img.iweec.cn/img/image-20230205004821133.png" alt="image-20230205004821133" style="zoom:50%;border-radius:13px" /></div>
+<img src="https://img.iweec.cn/img/image-20230205004821133.png" alt="image-20230205004821133" style="zoom:50%;border-radius:15px" />
 
-未完待续。。
+<img src="https://img.iweec.cn/img/image-20230205120932677.png" alt="image-20230205120932677" style="zoom:50%;border-radius: 15px" />
 
 ## 许可
 
@@ -45,4 +47,7 @@
 ---
 
 > [@博客](https://www.iweec.cn/) · [@GitHub](https://github.com/Atticus6) · [@Telegram群](https://t.me/+z76QXxWq23U3NTU9) 
+
+
+
 
