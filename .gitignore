@@ -19,3 +19,5 @@ build
 .vscode
 
 bin/air
+
+home/*.db
