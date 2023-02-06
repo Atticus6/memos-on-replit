@@ -1,5 +1,5 @@
 run = "bash start.sh"
-entrypoint = "start.sh"
+entrypoint = "README.md"
 
 [nix]
 channel = "stable-22_11"
