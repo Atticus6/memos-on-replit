@@ -1,4 +1,5 @@
-run = "bash start.sh"
+run = ["bash", "main.sh"]
+language = "go"
 entrypoint = "README.md"
 
 [nix]
