@@ -1,7 +1,7 @@
 if [[ -f ./memos && -s ./memos ]];then
 	echo '文件存在,需要重制请删除home目录下的文件'
 else
-	echo "正在初始话..."
+	echo "正在初始话...过程很慢请稍等"
     go build -o memos ./bin/server/main.go
 fi
 
